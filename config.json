@@ -40,22 +40,22 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "61552691907450"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
+  "nickNameBot": "Jay Ar 卝 Lianツ",
   "prefix": "/",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
+  "authorName": "Lian 🤡",
+  "facebook2": "https://www.facebook.com/61552691907450",
+  "facebook": "https://www.facebook.com/61552691907450",
   "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
+  "replit": "https://replit.com/@HayKape",
+  "github": "https://github.com/JayKape011",
   "insta": "no",
   "age": "18+",
   "TG": "",
